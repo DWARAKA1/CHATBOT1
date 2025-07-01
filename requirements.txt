@@ -9,3 +9,4 @@ streamlit>=1.46.1
 uvicorn>=0.35.0
 pydantic>=2.0.0
 requests>=2.31.0
+mangum>=0.17.0
